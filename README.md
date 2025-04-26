@@ -6,11 +6,10 @@ A simple and clean **Student Attendance Management** application built with **Fl
 
 ## 📸 Screenshots
 
-| Home Screen | Add Student | Mark Attendance |
-|:------------|:------------|:------------|
-| ![Home](![image](https://github.com/user-attachments/assets/d05403f0-9f50-4313-b225-5b8b07376106)
-) | ![Add](![image](https://github.com/user-attachments/assets/b03472c8-12cf-41b6-9f19-3063f4780e85)
-) 
+| Home Screen | Add Student |
+|:------------|:------------|
+| ![Home](![image](https://github.com/user-attachments/assets/d05403f0-9f50-4313-b225-5b8b07376106)| ![Add](![image](https://github.com/user-attachments/assets/b03472c8-12cf-41b6-9f19-3063f4780e85) |
+
 
 ---
 
