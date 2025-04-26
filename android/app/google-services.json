@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53753495274",
+    "project_id": "attendancesheet-6c32f",
+    "storage_bucket": "attendancesheet-6c32f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53753495274:android:132d9722801da1d723a193",
+        "android_client_info": {
+          "package_name": "com.example.attandance_sheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwA0XNBYQNlza32uFYiAFllGYYBz35u84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
